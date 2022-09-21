@@ -1,0 +1,7 @@
+E:\C#\СalculatorApp\bin\Debug\СalculatorApp.exe.config
+E:\C#\СalculatorApp\bin\Debug\СalculatorApp.exe
+E:\C#\СalculatorApp\bin\Debug\СalculatorApp.pdb
+E:\C#\СalculatorApp\obj\Debug\СalculatorApp.csprojAssemblyReference.cache
+E:\C#\СalculatorApp\obj\Debug\СalculatorApp.csproj.CoreCompileInputs.cache
+E:\C#\СalculatorApp\obj\Debug\СalculatorApp.exe
+E:\C#\СalculatorApp\obj\Debug\СalculatorApp.pdb
