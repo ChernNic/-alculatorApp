@@ -70,19 +70,19 @@ namespace СalculatorApp
                         Console.WriteLine($"Результат: {num1}^{num2} = {res}");
                         break;
                     case 6:
-                        Console.WriteLine("Введите два число: ");
+                        Console.WriteLine("Введите число: ");
                         num1 = Convert.ToDouble(Console.ReadLine());
                         res = Math.Sqrt(num1);
                         Console.WriteLine($"Квадратный корень из {num1} = {res}");
                         break;
                     case 7:
-                        Console.WriteLine("Введите два число: ");
+                        Console.WriteLine("Введите число: ");
                         num1 = Convert.ToDouble(Console.ReadLine());
                         res = num1 / 100;
                         Console.WriteLine($"Один процент от {num1} = {res}");
                         break;
                     case 8:
-                        Console.WriteLine("Введите два число: ");
+                        Console.WriteLine("Введите число: ");
                         num1 = Convert.ToDouble(Console.ReadLine());
                         res = 0;
                         for (int i = 2; i <= num1; i++)
